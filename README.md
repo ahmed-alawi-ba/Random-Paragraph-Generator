@@ -6,4 +6,4 @@ This Javascript application is a simple paragrapgh generator. The words chosen a
 This project is built with HTML5, CSS3 and Javascript. The app is built using a modern Javascript, and with applying OOP concepts (Object-Oriented Programming).
 <br/>
 
-You can run the app from here: [Random Paragrapgh Generator]()
+You can run the app from here: [Random Paragrapgh Generator](https://ahmed-alawi-ba.github.io/Random-Paragraph-Generator/)
